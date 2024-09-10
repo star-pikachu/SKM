@@ -14,6 +14,7 @@ plot(f(x), x = -8 .. 8, title = "Plot of f(x) = 2/(x^2 - 2)",
 
 ## Вариант2.Задание1.
 
+```maple
 with(plots):
 f := x -> sin(2*x)^2;
 plotsetup(axislinestyle = [line, line], axisfontstyle = [plain, plain], 
