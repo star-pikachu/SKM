@@ -1,3 +1,4 @@
+[SymPy Live](https://live.sympy.org)
 .mw = Maple Worksheet (Maple)
 .ipynb = Jupyter Notebook (Python + Sympy)
 
