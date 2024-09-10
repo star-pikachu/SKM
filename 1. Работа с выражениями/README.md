@@ -1,9 +1,6 @@
 [SymPy Live](https://live.sympy.org)
-.mw = Maple Worksheet (Maple)
-.ipynb = Jupyter Notebook (Python + Sympy)
 
 pdf: Все варианты (SKM_ ...) и только Вариант 2 (Lab1.Var2.pdf)
-
 
 ## Задание_10.Вариант_2
 ### 10.II Maple
