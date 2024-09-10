@@ -2,3 +2,8 @@
 .ipynb = Jupyter Notebook (Python + Sympy)
 
 pdf: Все варианты (SKM_ ...) и только Вариант 2 (Lab1.Var2.pdf)
+
+Задание_10.Вариант_2: Упростить выражение Maple (задаем выражение, упрощаем функцией simplify).
+```maple
+expr := sqrt(x-2*sqrt(x-1)) / (sqrt(x-1) - 1);
+simplify(expr);
