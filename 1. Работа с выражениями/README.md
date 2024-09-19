@@ -2,7 +2,7 @@
 
 pdf: Все варианты (SKM_ ...) и только Вариант 2 (Lab1.Var2.pdf)
 
-## Задание_10.Вариант_2 Опечатка?
+## Задание_10.Вариант_2
 ### 10.II Maple
 ```maple
 expr := sqrt(x-2*sqrt(x-1)) / (sqrt(x-1) - 1);
@@ -25,7 +25,7 @@ simplify(expr)
 # Задаем выражения, чтобы их решить
 eq_y = Eq(log(y), 4)  # Equation for y
 eq_z = Eq(log(z), 2)  # Equation for z
-eq_combined = Eq(log(y, z) + log(z, y), x)  # Combined equation
+eq_combined = Eq(log(y, z) + log(z, y), x)
 
 # Решаем для y и z
 solution = solve((eq_y, eq_z), (y, z))
