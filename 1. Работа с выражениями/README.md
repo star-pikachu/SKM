@@ -23,7 +23,10 @@ limit(expr, x, oo)
 ```
 ### 10.II Sympy (командой limit)
 
-## Задание_9.Вариант_2: $$\log(y) &= 4, \log(z) &= 2$$
+## Задание_9.Вариант_2: $$\begin{align*}
+\log(y) &= 4\\
+\log(z) &= 2
+\end{align*}$$
 
 
 <details>
