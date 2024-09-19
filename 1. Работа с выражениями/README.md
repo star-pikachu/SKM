@@ -8,13 +8,13 @@ pdf: Все варианты (SKM_ ...) и только Вариант 2 (Lab1.V
 expr := sqrt(x-2*sqrt(x-1)) / (sqrt(x-1) - 1);
 simplify(expr);
 ```
-### 10.II Sympy
+### 10.II Sympy (командой limit)
 ```python
 # код для SymPy Live
 
 x = symbols('x')
 expr = sqrt(x-2*sqrt(x-1)) / (sqrt(x-1) - 1)
-simplify(expr)
+limit(expr, x, oo)
 ```
 
 ## Задание_9.Вариант_2
