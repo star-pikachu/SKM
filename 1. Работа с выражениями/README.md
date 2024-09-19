@@ -23,11 +23,7 @@ limit(expr, x, oo)
 ```
 ### 10.II Sympy (командой limit)
 
-## Задание_9.Вариант_2: $$\begin{align*}
-\log(y) &= 4\\
-\log(z) &= 2
-\end{align*}$$
-
+## Задание_9.Вариант_2: $$Решить $\log(y,z) + \log(z,y)$, зная $\log(y)=4$, $\log(z)=2$$
 
 <details>
   <summary>Нажми тут >, чтобы получить ответ:</summary> $\frac{5}{4}$
