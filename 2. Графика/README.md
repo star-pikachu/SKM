@@ -1,4 +1,5 @@
 [SymPy Live](https://live.sympy.org)
+
 pdf: Все варианты (SKM_ ...)
 
 ## Задание 1: 
