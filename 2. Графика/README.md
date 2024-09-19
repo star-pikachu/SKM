@@ -1,10 +1,8 @@
-.mw = Maple Worksheet files
-.ipynb = Jupyter Notebook (Python + Sympy)
-
 pdf: Все варианты (SKM_ ...)
 
-## Вариант1.Задание1.
+## Задание 1: 
 
+### 1.I Maple
 ```maple
 with(plots):
 f := x -> 2/(x^2 - 2);
@@ -14,7 +12,7 @@ plot(f(x), x = -8 .. 8, title = "Plot of f(x) = 2/(x^2 - 2)",
      linestyle = line, color = blue);
 ```
 
-## Вариант2.Задание1.
+### 1.II Maple
 
 ```maple
 with(plots):
