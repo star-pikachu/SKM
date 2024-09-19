@@ -25,6 +25,10 @@ limit(expr, x, oo)
 
 ## Задание_9.Вариант_2
 
+<details>
+  <summary>Нажми тут >, чтобы получить ответ:</summary> $\frac{5}{4}$
+</details>
+
 ```python
 # код для SymPy Live
 
@@ -45,7 +49,3 @@ print(f"y: {solution[y]}")
 print(f"z: {solution[z]}")
 print(f"{eq_combined}: {x_solution}")
 ```
-
-<details>
-  <summary>Нажми тут >, чтобы получить ответ:</summary> $\frac{5}{4}$
-</details>
