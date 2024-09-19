@@ -4,8 +4,9 @@ pdf: Все варианты (SKM_ ...) и только Вариант 2 (Lab1.V
 
 ## Задание_10.Вариант_2: Упростить $$\frac{\sqrt{x-2\sqrt{x-1}}}{\sqrt{x-1}-1}$$
 
-<details>
-  <summary>Нажми тут >, чтобы получить ответ:</summary> 1
+<details style="background-color: #ADD8E6; padding: 10px; border: 1px solid #336699;">
+  <summary style="color: white;">Нажми тут », чтобы получить ответ:</summary>
+  <span style="color: black;">1</span>
 </details>
 
 ### 10.II Maple
