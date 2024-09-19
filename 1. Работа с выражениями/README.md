@@ -8,11 +8,6 @@ pdf: Все варианты (SKM_ ...) и только Вариант 2 (Lab1.V
   <summary>Нажми тут >, чтобы получить ответ:</summary> 1
 </details>
 
-### 10.II Maple
-```maple
-expr := sqrt(x-2*sqrt(x-1)) / (sqrt(x-1) - 1);
-simplify(expr);
-```
 ### 10.II Sympy (командой limit)
 ```python
 # код для SymPy Live (уже подключены библиотеки, и вывод на экран без print)
