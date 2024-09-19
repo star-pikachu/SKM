@@ -10,7 +10,7 @@ simplify(expr);
 ```
 ### 10.II Sympy (командой limit)
 ```python
-# код для SymPy Live
+# код для SymPy Live (уже подключены библиотеки, и вывод на экран без print)
 
 x = symbols('x')
 expr = sqrt(x-2*sqrt(x-1)) / (sqrt(x-1) - 1)
