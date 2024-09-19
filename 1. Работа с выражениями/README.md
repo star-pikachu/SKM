@@ -2,7 +2,13 @@
 
 pdf: Все варианты (SKM_ ...) и только Вариант 2 (Lab1.Var2.pdf)
 
-## Задание_10.Вариант_2: $$\frac{\sqrt{x-2\sqrt{x-1}}}{\sqrt{x-1}-1}$$
+## Задание_10.Вариант_2: Упростить $$\frac{\sqrt{x-2\sqrt{x-1}}}{\sqrt{x-1}-1}$$
+
+<details>
+  <summary>Ответ:</summary>
+  **1**
+</details>
+
 ### 10.II Maple
 ```maple
 expr := sqrt(x-2*sqrt(x-1)) / (sqrt(x-1) - 1);
@@ -16,6 +22,7 @@ x = symbols('x')
 expr = sqrt(x-2*sqrt(x-1)) / (sqrt(x-1) - 1)
 limit(expr, x, oo)
 ```
+### 10.II Sympy (командой limit)
 
 ## Задание_9.Вариант_2
 
